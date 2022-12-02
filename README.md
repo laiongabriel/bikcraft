@@ -4,6 +4,5 @@ Bikcraft é uma empresa fictícia que desenvolve bicicletas personalizadas para 
 
 ## Layout
 ![Layout1](https://raw.githubusercontent.com/laiongabriel/bikcraft/main/img/layout-1.png)
-![Layout2](https://raw.githubusercontent.com/laiongabriel/bikcraft/main/img/layout-2.png)
-![Layout3](https://raw.githubusercontent.com/laiongabriel/bikcraft/main/img/layout-3.png)
-![Layout4](https://raw.githubusercontent.com/laiongabriel/bikcraft/main/img/layout-4.png)
+
+[🔗 Clique aqui para acessar](https://laiongabriel.github.io/bikcraft/)
